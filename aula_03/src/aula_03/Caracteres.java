@@ -15,7 +15,7 @@ public class Caracteres {
 		System.out.println(frase_01.equals(frase_02));
 		System.out.println(frase_04.equals(frase_02));
 		
-		// Ignora o case
+		// Ignora o case (caracter maiusculo ou minúsculo não difere
 		System.out.println(frase_01.equalsIgnoreCase(frase_02));
 		System.out.println(frase_04.equalsIgnoreCase(frase_02));
 		
