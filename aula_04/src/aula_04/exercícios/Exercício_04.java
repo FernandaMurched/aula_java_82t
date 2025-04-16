@@ -28,7 +28,7 @@ public class Exercício_04 {
 			
 			double media = (double) soma / contador;
 		
-			System.out.printf("A média dos núemro múltiplos de 3 é %.2f!", media);
+			System.out.printf("A média dos núemro múltiplos de 3 é igual a %.2f!", media);
 				
 			} else {
 				
