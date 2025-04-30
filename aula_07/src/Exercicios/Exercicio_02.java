@@ -11,7 +11,6 @@ public class Exercicio_02 {
 		
 		Stack<String> pilha = new Stack<String>();
 	
-		
 		int opcao;
 		
 		do {
